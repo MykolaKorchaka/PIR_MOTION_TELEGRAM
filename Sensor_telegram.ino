@@ -8,10 +8,10 @@
 #define LED 16 
 #define pirPin 5
 
-const char* ssid = "tbilisi50";
-const char* password = "TBILISI51";
-const char BotToken[] = "1119448770:AAEKo-HBnz3pQqw8JqJa_3ePMV1iqEOI3Sg";
-const char CHAT_ID[] = "351930156";
+const char* ssid = "wifi_name";
+const char* password = "wifi_password";
+const char BotToken[] = "bot:token";
+const char CHAT_ID[] = "chat_id(if needed)";
 
 int ENABLE = 0;
 
